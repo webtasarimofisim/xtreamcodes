@@ -62,7 +62,7 @@ apt-get install iptables-persistent
 echo " "
 echo "####################################################################################"
 echo " "
-echo "Kurulum Dosyalari Ttemizleniyor"
+echo "Kurulum Dosyalari Temizleniyor"
 echo " "
 rm /root/install_iptv_pro.php
 rm /root/install_iptv_pro.zip
