@@ -16,7 +16,7 @@ else
     echo "/var/www/ exist"
     	tar -zxvf /tmp/www_dir.tar.gz -C /var/www/
 else
-    echo "No Webserver installed?"
+    echo "Web sunucusu yuklu degil mi?"
 
 fi
 
