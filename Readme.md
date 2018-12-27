@@ -1,4 +1,5 @@
 Xtream Codes Türkçe
+
 Xtream Codes 1.0.60 (Orginal) Otomatik Kurulum. Kurulu yapmak için Ubuntu 14.4.5 versiyon Debian 7 Gerekmektedir.
 
 ----Otomatik Kurulum için Aşağıdaki Sıralama ile devam edin.----
